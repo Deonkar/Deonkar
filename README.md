@@ -38,33 +38,26 @@ Backend engineer specializing in performance optimization and scalable systems. 
 
 **Backend:** Ruby on Rails, PostgreSQL, Redis, Sidekiq, REST APIs  
 **Frontend:** React, TypeScript, Tailwind CSS  
-**Infrastructure:** AWS (S3, RDS, EC2), Docker, CI/CD  
-**Tools:** Git, Datadog, RBAC, Rate Limiting
+**Infrastructure:** AWS (S3, RDS, EC2), Docker, CI/CD
 
 ---
 
 ## Featured Work
 
-**🏢 Internal CRM Platform** (Production)  
-High-performance CRM managing 3M+ leads · Rails, React, PostgreSQL, Redis, AWS
+### 🏢 Internal CRM Platform (Production)
+High-performance CRM managing 3M+ leads across 480+ concurrent agents
+- **Stack:** Rails, React, PostgreSQL, Redis, AWS S3
+- **Impact:** 93% latency reduction, zero downtime deployments
 
-**☁️ Serverless Architecture**  
-Cloud-native application with AWS Lambda, API Gateway, DynamoDB
+### ☁️ Serverless Architecture
+Cloud-native application demonstrating modern AWS patterns
+- **Stack:** Lambda, API Gateway, DynamoDB, S3
+- **Focus:** Event-driven architecture, auto-scaling
 
-**💰 Money Tracker**  
-Personal finance management application · JavaScript, React
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Onkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deonkar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deonkar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
+### 💰 Money Tracker
+Personal finance management application
+- **Stack:** JavaScript, React
+- **Features:** Expense tracking, budget management, financial reporting
 
 ---
 
@@ -83,11 +76,3 @@ Personal finance management application · JavaScript, React
 📧 **Email:** onkardeokate@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/onkardeokate](https://linkedin.com/in/onkardeokate)  
 📍 **Location:** Pune, India
-
----
-
-<div align="center">
-
-⭐️ **Star my repositories if you find them useful!**
-
-</div>
