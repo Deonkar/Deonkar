@@ -102,3 +102,15 @@ Tools       ████████████░░░░░░  Git, Datadog
 **⭐️ From [Deonkar](https://github.com/Deonkar)**
 
 </div>
+
+![GitHub stars](https://img.shields.io/github/stars/Deonkar/[repo-name]?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Deonkar/[repo-name]?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Deonkar/[repo-name])
+![License](https://img.shields.io/github/license/Deonkar/[repo-name])
+
+<!-- Tech stack badges -->
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
