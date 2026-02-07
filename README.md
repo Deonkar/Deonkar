@@ -1,60 +1,104 @@
-## Hi there 👋
+<div align="center">
 
-# Onkar Deokate
+# 👋 Onkar Deokate
 
-**Backend Software Engineer** | Ruby on Rails · React · PostgreSQL · AWS
+**Backend Engineer | Ruby on Rails · React · PostgreSQL · AWS**
 
-Building scalable, high-performance systems with focus on reliability and operational excellence.
+[📧 Email](mailto:onkardeokate@gmail.com) • 
+[💼 LinkedIn](https://linkedin.com/in/onkardeokate) • 
+[📍 Pune, India](https://maps.google.com/?q=Pune,India)
 
----
-
-## Professional Overview
-
-Backend engineer specializing in performance optimization and internal platform development. Experience architecting production systems managing multi-million record datasets with emphasis on query optimization, distributed workflows, and cloud infrastructure.
-
-### Recent Achievements
-- **93% API latency reduction** – Optimized database queries and caching strategies (6.7s → 450ms)
-- **>99% timeout elimination** – Resolved critical PostgreSQL performance issues (60s → 450ms)
-- **Platform architecture** – Built internal CRM handling 3M+ records with zero downtime
-- **Infrastructure automation** – Designed AWS S3 pipelines reducing operational overhead by 80%
+</div>
 
 ---
 
-## Technical Expertise
+## 🎯 About Me
 
-**Backend Development**  
-Ruby on Rails, REST APIs, PostgreSQL, Redis, Sidekiq, Resque
+Backend engineer focused on **performance optimization** and **scalable systems**. I turn slow, fragile systems into fast, reliable ones.
 
-**Frontend Development**  
-React, TypeScript, Tailwind CSS
-
-**Cloud & Infrastructure**  
-AWS (S3, RDS, EC2, CloudWatch), Docker, CI/CD
-
-**Engineering Practices**  
-Performance optimization, observability (Datadog), RBAC, rate limiting, async workflows
+### 📊 Recent Impact
+- 🚀 **93% API latency reduction** (6.7s → 450ms)
+- ⚡ **>99% timeout elimination** (60s → 450ms)
+- 📦 **3M+ records** managed in production CRM
+- ✅ **Zero downtime** across all deployments
+- 🔧 **100+ production incidents** resolved
 
 ---
 
-## Current Focus
-
-- Distributed systems architecture
-- Database query optimization techniques
-- Cloud-native design patterns
-- Scalable internal platform development
+## 💻 Tech Stack
+```text
+Backend     ████████████████░░  Rails, PostgreSQL, Redis, Sidekiq
+Frontend    █████████████░░░░░  React, TypeScript, Tailwind
+Cloud       ██████████░░░░░░░░  AWS (S3, RDS, EC2), Docker
+Tools       ████████████░░░░░░  Git, Datadog, CI/CD
+```
 
 ---
 
-## Professional Links
+## 🔨 Featured Projects
+
+### 🏢 Internal CRM Platform (Production)
+> First-party CRM replacing third-party system @ amber
+
+- **Stack:** Rails, React, PostgreSQL, Redis, AWS S3
+- **Scale:** 3M+ leads, 480+ concurrent agents
+- **Highlights:** 
+  - Redis-based round-robin distribution
+  - Automated S3 artifact storage
+  - Sub-second filter experience with caching
+
+### 💰 Money Tracker
+> Personal finance management application
+
+- **Stack:** JavaScript
+- **Features:** [Add 2-3 key features]
+
+### ☁️ Serverless Architecture
+> Cloud-native application design
+
+- **Stack:** AWS Lambda, API Gateway, DynamoDB
+- **Learning:** Event-driven patterns, serverless deployment
+
+### 🏥 Healthcare Platform
+> [Brief description]
+
+- **Stack:** JavaScript
+- **Features:** [Key features]
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Onkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deonkar&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deonkar&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- Distributed systems patterns (CQRS, Event Sourcing)
+- Cloud-native architectures (Kubernetes, microservices)
+- Advanced PostgreSQL optimization techniques
+
+---
+
+## 📫 Get in Touch
+
+💼 **Open to:** Backend engineering roles, performance optimization challenges, internal platform development
 
 📧 **Email:** onkardeokate@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/onkardeokate](https://linkedin.com/in/onkardeokate)  
+🔗 **LinkedIn:** [linkedin.com/in/onkardeokate](https://linkedin.com/in/onkardeokate)  
 📍 **Location:** Pune, India
 
 ---
 
 <div align="center">
 
-**Open to discussing backend architecture, performance engineering, and system design challenges**
+**⭐️ From [Deonkar](https://github.com/Deonkar)**
 
 </div>
