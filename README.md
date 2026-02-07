@@ -1,85 +1,72 @@
 <div align="center">
 
-# 👋 Onkar Deokate
+# Onkar Deokate
 
 **Backend Engineer | Ruby on Rails · React · PostgreSQL · AWS**
 
-[📧 Email](mailto:onkardeokate@gmail.com) • 
-[💼 LinkedIn](https://linkedin.com/in/onkardeokate) • 
-[📍 Pune, India](https://maps.google.com/?q=Pune,India)
+[![Email](https://img.shields.io/badge/Email-onkardeokate@gmail.com-red?style=flat&logo=gmail)](mailto:onkardeokate@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-onkardeokate-blue?style=flat&logo=linkedin)](https://linkedin.com/in/onkardeokate)
+[![Location](https://img.shields.io/badge/Location-Pune,_India-green?style=flat&logo=google-maps)](https://maps.google.com/?q=Pune,India)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## About Me
 
-Backend engineer focused on **performance optimization** and **scalable systems**. I turn slow, fragile systems into fast, reliable ones.
+Backend engineer specializing in performance optimization and scalable systems. I build production-grade platforms that handle millions of records with zero downtime.
 
-### 📊 Recent Impact
-- 🚀 **93% API latency reduction** (6.7s → 450ms)
-- ⚡ **>99% timeout elimination** (60s → 450ms)
-- 📦 **3M+ records** managed in production CRM
-- ✅ **Zero downtime** across all deployments
-- 🔧 **100+ production incidents** resolved
-
----
-
-## 💻 Tech Stack
-```text
-Backend     ████████████████░░  Rails, PostgreSQL, Redis, Sidekiq
-Frontend    █████████████░░░░░  React, TypeScript, Tailwind
-Cloud       ██████████░░░░░░░░  AWS (S3, RDS, EC2), Docker
-Tools       ████████████░░░░░░  Git, Datadog, CI/CD
-```
+**Recent achievements:**
+- 🚀 93% API latency reduction (6.7s → 450ms)
+- ⚡ >99% database timeout elimination (60s → 450ms)
+- 📦 Built CRM managing 3M+ records with 480+ concurrent users
+- ✅ Zero downtime across all production deployments
+- 🔧 100+ production incidents resolved as on-call engineer
 
 ---
 
-## 🔨 Featured Projects
+## Tech Stack
 
-### 🏢 Internal CRM Platform (Production)
-> First-party CRM replacing third-party system @ amber
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- **Stack:** Rails, React, PostgreSQL, Redis, AWS S3
-- **Scale:** 3M+ leads, 480+ concurrent agents
-- **Highlights:** 
-  - Redis-based round-robin distribution
-  - Automated S3 artifact storage
-  - Sub-second filter experience with caching
-
-### 💰 Money Tracker
-> Personal finance management application
-
-- **Stack:** JavaScript
-- **Features:** [Add 2-3 key features]
-
-### ☁️ Serverless Architecture
-> Cloud-native application design
-
-- **Stack:** AWS Lambda, API Gateway, DynamoDB
-- **Learning:** Event-driven patterns, serverless deployment
-
-### 🏥 Healthcare Platform
-> [Brief description]
-
-- **Stack:** JavaScript
-- **Features:** [Key features]
+**Backend:** Ruby on Rails, PostgreSQL, Redis, Sidekiq, REST APIs  
+**Frontend:** React, TypeScript, Tailwind CSS  
+**Infrastructure:** AWS (S3, RDS, EC2), Docker, CI/CD  
+**Tools:** Git, Datadog, RBAC, Rate Limiting
 
 ---
 
-## 📈 GitHub Stats
+## Featured Work
+
+**🏢 Internal CRM Platform** (Production)  
+High-performance CRM managing 3M+ leads · Rails, React, PostgreSQL, Redis, AWS
+
+**☁️ Serverless Architecture**  
+Cloud-native application with AWS Lambda, API Gateway, DynamoDB
+
+**💰 Money Tracker**  
+Personal finance management application · JavaScript, React
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-![Onkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deonkar&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deonkar&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deonkar&layout=compact&theme=default&hide_border=true)
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Distributed systems patterns (CQRS, Event Sourcing)
 - Cloud-native architectures (Kubernetes, microservices)
@@ -87,30 +74,13 @@ Tools       ████████████░░░░░░  Git, Datadog
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
-💼 **Open to:** Backend engineering roles, performance optimization challenges, internal platform development
+**Open to:** Backend engineering roles, performance optimization challenges, internal platform development
 
 📧 **Email:** onkardeokate@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/onkardeokate](https://linkedin.com/in/onkardeokate)  
+💼 **LinkedIn:** [linkedin.com/in/onkardeokate](https://linkedin.com/in/onkardeokate)  
 📍 **Location:** Pune, India
 
 ---
 
-<div align="center">
-
-**⭐️ From [Deonkar](https://github.com/Deonkar)**
-
-</div>
-
-![GitHub stars](https://img.shields.io/github/stars/Deonkar/[repo-name]?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Deonkar/[repo-name]?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Deonkar/[repo-name])
-![License](https://img.shields.io/github/license/Deonkar/[repo-name])
-
-<!-- Tech stack badges -->
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
