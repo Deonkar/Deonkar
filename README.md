@@ -18,7 +18,7 @@ Backend engineer working on performance optimization and event-driven systems. I
 
 **In production:**
 - 93% API latency reduction (6.7s to 450ms) on the core lead pipeline
-- >99% reduction in database timeouts (60s to 450ms)
+- 99%+ reduction in database timeouts (60s to 450ms)
 - CRM serving 3M+ records across 480+ concurrent agents
 - Zero-downtime deployments
 - 100+ production incidents resolved as on-call engineer
